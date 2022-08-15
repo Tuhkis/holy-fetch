@@ -2,4 +2,4 @@
 The fech program of God.
 
 # Building
-For compiling you need the [](hc2c copiler), gcc and make.
+For compiling you need the [hc2c transpiler][https://github.com], gcc and make.
