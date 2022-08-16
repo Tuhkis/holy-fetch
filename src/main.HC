@@ -35,7 +35,7 @@ U0 Main(){
 								
 								I32 isDistro = strcmp(os, " Arch Linux \n");
 								if(isDistro==0){
-																ascii_art=2;
+																ascii_art=1;
 								}
 
 								// Print the info
